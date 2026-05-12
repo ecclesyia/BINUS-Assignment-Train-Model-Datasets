@@ -3,8 +3,11 @@ A assignment where we train a model by using a datasets from a kaggle webiste, w
 
 ## Model used
 scikit-learn
+
 joblib
+
 pytest
+
 numpy
 
 ## Kaggle dataset used
